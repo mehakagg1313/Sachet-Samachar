@@ -1,1 +1,2 @@
-# Sachet-Samachar
+# सचेत-समाचार
+Hindi Fake News Detector
