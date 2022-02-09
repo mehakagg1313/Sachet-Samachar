@@ -14,10 +14,11 @@ Hindi Fake News Detector is a suite of tools to fight disinformation on the web.
  
  ## Brief Explaination of Project:
  
- [DEMO VIDEO](https://youtu.be/5wdvW-OnuKU)
+ ### [DEMO VIDEO](https://youtu.be/5wdvW-OnuKU)
 
-[Kandi](https://kandi.openweaver.com/collections/techforgood2022/sachet-samachar:-hindi-fake-news-de)
-[Link to the award ceremony](https://www.youtube.com/watch?v=rSK1jvYqHwU)
+#### [Kandi](https://kandi.openweaver.com/collections/techforgood2022/sachet-samachar:-hindi-fake-news-de)
+
+### [Link to the award ceremony](https://www.youtube.com/watch?v=rSK1jvYqHwU)
 
 ## Team
 - Mehak Aggarwal
