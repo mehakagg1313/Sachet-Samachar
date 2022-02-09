@@ -1,7 +1,15 @@
 # CombattingDisinformation
 
-### सचेत-समाचार
+### Sachet-Samachar: Hindi Fake News Detector
 Hindi Fake News Detector is a suite of tools to fight disinformation on the web. These inform the user of a news report's reliability, media bias and objectivity using sophisticated Machine Learning Models.The extension summarises the report for the user's convenience, and suggests similar verified artciles.
+
+
+## Features
+1. Machine Learning Predictor for News Reliability
+2. Displaying Media Bias
+3. Displaying Objectivity
+4. Suggested Articles using keyword extraction
+5. Article Summariser using Extractive Summarisation Algorithm
 
 
 ## Follow the below instructions to run the solution:
@@ -16,7 +24,7 @@ Hindi Fake News Detector is a suite of tools to fight disinformation on the web.
  
  ### [DEMO VIDEO](https://youtu.be/5wdvW-OnuKU)
 
-#### [Kandi](https://kandi.openweaver.com/collections/techforgood2022/sachet-samachar:-hindi-fake-news-de)
+### [Kandi](https://kandi.openweaver.com/collections/techforgood2022/sachet-samachar:-hindi-fake-news-de)
 
 ### [Link to the award ceremony](https://www.youtube.com/watch?v=rSK1jvYqHwU)
 
